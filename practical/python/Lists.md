@@ -1,4 +1,56 @@
-## 1) Defining list in python :
+## 1) Working with list in python :
+* Creating list
+```
+## directly assign it to the value
+words = ["first","second"]
+
+## use list() function
+numbers = list((1,2,3,4,5))
+```
+
+* Accessing list items
+```
+## This prints the word at the 0 index
+print(words[0])
+
+## This prints last element of the list
+print(numbers[-1])
+```
+
+* Updating an element at specific index
+```
+## using index directly
+numbers[0]=4
+
+## using append() to add at the last index
+numbers.append(12)
+
+## remove the number at last index and return the number
+popped_num = numbers.pop()
+print(popped_num)
+
+## remove element of the list
+numbers.remove(3)
+
+## what happens if you try to remova a number from list which is not present
+numbers = [1,2,30,4,5,12]
+print(numbers)
+numbers.remove(3)
+print(numbers)
+
+Output of the code : 
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+Cell In[92], line 3
+      1 numbers = [1,2,30,4,5,12]
+      2 print(numbers)
+----> 3 numbers.remove(3)
+      4 print(numbers)
+
+ValueError: list.remove(x): x not in list
+```
+
+* Slicing operations in list
 ```
 numbers=[1,2,3,4,5,6,7,8,9,10]
 print(numbers[:2])
@@ -6,9 +58,9 @@ print(numbers[5:])
 print(numbers[2:5])
 print(numbers[::2])
 print(numbers[::-1])
-```
+
 Output of the above staments : 
-```
+
 [1, 2]
 [6, 7, 8, 9, 10]
 [3, 4, 5]
