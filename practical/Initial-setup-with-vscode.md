@@ -1,4 +1,4 @@
-### Action Item :
+### Action Item for initial setup:
 1) Creating a new environment with required set of dependencies.
 2) Working with requirements.txt file.
 3) Learning and working with files with extention `.ipynb` and `.py`
@@ -6,3 +6,6 @@
    *  `.py file`
    *  `.ipynb file`
 5) Installing ipykernel in the new environment to run python commands in .ipynb file.
+
+### Implementation
+[Initial setup](./practical/Initial-setup-in-vs-code.pdf)
