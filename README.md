@@ -11,4 +11,8 @@ This repository contains the content which will help us in learning AI and ML fr
 
 # Working Examples : 
 1) [Intial Setup with VSCode](./practical/Initial-setup-with-vscode.md)
+2) Python programming
+   * [Basics of python](./practical/python/Basic-of-python.md)
+   * [Control Statement](./practical/python/Control-statement.md)
+   * [Loops in python](./practical/python/Loops.md)
 
