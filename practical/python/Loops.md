@@ -37,3 +37,34 @@ while i>0:
     print(i)
     i-=1
 ```
+
+## Working with break, continue and pass in the loops
+
+## Continue will just skip the specific looping condition
+Code below will only print odd numbers from 1 to 9 :
+```
+for i in range(10):
+    if(i%2==0):
+        continue
+    print(i)
+```
+
+## break will break the loop execution at the specific conditional statement
+Code below will only print 1,2 and 3 and then break from execution :
+```
+i=0
+while(i<5):
+    print(i)
+    if(i==3):
+        break
+    i+=1
+```
+
+## pass does nothing while working in the loops
+Code below prints all the numbers from 1 to 9 :
+```
+for i in range(0,10):
+    if(i%2==0):
+        pass
+    print(i)
+```
