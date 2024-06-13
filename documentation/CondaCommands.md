@@ -76,3 +76,6 @@ Here are some commonly used conda commands that can be useful for development:
     ```
 
 Remember, whenever you create a new environment, don't forget to activate it using `conda activate my_env`. Otherwise, the changes you make will be applied to the base environment. It's always a good practice to create separate environments for different projects to avoid package conflicts.
+
+Complete set of Conda commands can be found from the documentation at below link :
+[Conda commands documentation](https://docs.conda.io/projects/conda/en/latest/commands/index.html)
