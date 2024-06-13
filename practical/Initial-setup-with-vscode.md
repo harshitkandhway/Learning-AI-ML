@@ -8,4 +8,4 @@
 5) Installing ipykernel in the new environment to run python commands in .ipynb file.
 
 ### Implementation
-[Initial setup](./practical/Initial-setup-in-vs-code.pdf)
+[Initial setup](../practical/Initial-setup-in-vs-code.pdf)
