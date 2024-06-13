@@ -15,4 +15,5 @@ This repository contains the content which will help us in learning AI and ML fr
    * [Basics of python](./practical/python/Basic-of-python.md)
    * [Control Statement](./practical/python/Control-statement.md)
    * [Loops in python](./practical/python/Loops.md)
+   * [Working with lists](./practical/python/Lists.md)
 
