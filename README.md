@@ -19,4 +19,6 @@ This repository contains the content which will help us in learning AI and ML fr
    * [Tuples](./practical/python/Tuples.md)
    * [Dictionary](./practical/python/Dictionary.md)
    * [Functions](./practical/python/Functions.md)
+     * [Lambda Function](./practical/python/LambdaFunction.md)
+     * [Map Function](./practical/python/MapFunction.md)
 
