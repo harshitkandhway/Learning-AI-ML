@@ -18,4 +18,5 @@ This repository contains the content which will help us in learning AI and ML fr
    * [Working with lists](./practical/python/Lists.md)
    * [Tuples](./practical/python/Tuples.md)
    * [Dictionary](./practical/python/Dictionary.md)
+   * [Functions](./practical/python/Functions.md)
 
