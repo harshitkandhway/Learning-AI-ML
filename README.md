@@ -17,4 +17,5 @@ This repository contains the content which will help us in learning AI and ML fr
    * [Loops in python](./practical/python/Loops.md)
    * [Working with lists](./practical/python/Lists.md)
    * [Tuples](./practical/python/Tuples.md)
+   * [Dictionary](./practical/python/Dictionary.md)
 
