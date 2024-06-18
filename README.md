@@ -22,5 +22,7 @@ This repository contains the content which will help us in learning AI and ML fr
      * [Lambda Function](./practical/python/LambdaFunction.md)
      * [Map Function](./practical/python/MapFunction.md)
      * [Filter Function](./practical/python/FilterFunction.md)
+   * [Some useful standard library](./practical/python/standardLibrary.md)
+   * [Working with files](./practical/python/FileOperations.md)
   
 
